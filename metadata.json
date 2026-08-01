@@ -1,0 +1,6 @@
+{
+  "name": "Push Yourself",
+  "description": "Tactical gamified fitness and RPG habit tracker. Level up stats, complete quests, and climb the warrior ranks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
